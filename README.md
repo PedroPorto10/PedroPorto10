@@ -30,22 +30,17 @@ I work mostly with **Python**, **TypeScript**, **Node.js**, and modern cloud eco
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pedroporto&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroporto&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p>
-  <a href="https://www.linkedin.com/in/pedro-porto-bb6979360/">
+  <a href="https://www.linkedin.com/in/pedro-porto-5854b2177/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/portop_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
+
 ---
 
-Thanks for visiting — feel free to reach out or explore my repositories!
+Thanks for passing by — feel free to reach out or explore my repositories!
