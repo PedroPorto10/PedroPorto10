@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pedro Porto
+# Pedro Porto
 
 **Backend Software Engineer** focused on **scalable systems**, **cloud architecture**, and high-impact automation.  
 I work mostly with **Python**, **TypeScript**, **Node.js**, and modern cloud ecosystems like **AWS** and **Google Cloud Platform**.
@@ -41,7 +41,7 @@ I work mostly with **Python**, **TypeScript**, **Node.js**, and modern cloud eco
 
 ## 🌐 Connect with Me
 <p>
-  <a href="[https://www.linkedin.com/in/pedro-porto-5854b2177/](https://www.linkedin.com/in/pedro-porto-bb6979360/)">
+  <a href="https://www.linkedin.com/in/pedro-porto-bb6979360/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
